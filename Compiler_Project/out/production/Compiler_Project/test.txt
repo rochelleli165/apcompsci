@@ -1,0 +1,66 @@
+4 this is a comment
+4 below will print out apple: enter 5 for the print function, two spaces, and then what you want to print
+4 the example below prints apple
+
+5  apple
+
+4 to print out a new line, do one space, an l
+4 the example below prints a new line
+
+5 l
+
+4 you can also combine those two functions together
+4 this prints cat and a new line
+
+5 lcat
+
+4 to do loops use the number 2,
+4 followed right after the number of times you want to loop,
+4 then what you want to loop
+4 the example below loops println(yes) 4 times
+
+24 5 lyes
+
+4 math functions are simple
+4 use the function 1, followed immediately by the first number, a space,
+4 second number, a star, and three letters
+4 add is +
+4 act is -
+4 ply is *
+4 ide is /
+4 mod is %
+4 the examples below do 4+5, 4-5, 4*5, 4/5, 4%5 in that order
+
+5 l14 5* add
+5 l14 5* act
+5 l14 5* ply
+5 l14 5* ide
+5 l14 5* mod
+
+4 conditional statements start with 3
+4 you can only compare ints 0-9
+4 the format is int a + compare signs + / + int b + * + " " + inside function
+4 the example below compares if 6 is equal to 6 (true),
+4 which then prints "this is a conditional statement that works"
+
+36==/6* 5 lthis is a conditional statement that works
+
+4 inputs and variables are similar
+4 use the number 0 and right afterwards the name of the variable
+4 if you just initialize the variable, but give no value,
+4 the user inputs the type and value
+4 below is an example of an input called cat
+4 to label it as a string, type s when asked for type
+4 then for value type in the string value you want
+
+0cat
+
+4 you can also set it in code like this:
+4 this is a string
+
+0dog "hi"
+
+4 this is for int
+
+0shirt 3
+
